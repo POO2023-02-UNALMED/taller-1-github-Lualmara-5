@@ -1,1 +1,3 @@
-Luis Alejandro Martinez Ramirez 18 Aprender POO
+Luis Alejandro Martinez Ramirez
+18
+Aprender sobre el curso Programacion Orientada a Objetos

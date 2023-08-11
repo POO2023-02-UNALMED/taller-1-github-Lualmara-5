@@ -1,3 +1,8 @@
+
 Luis Alejandro Martinez Ramirez
 18
 Deseo aprender sobre este curso de Programacion Orientada a Objetos
+
+Agregue un archivo "respuesta.txt" y al no estar vacia si me dejo hacer el commit
+
+Rta 14 := Forma un conflicto entre los archivos 
